@@ -27,7 +27,7 @@
     "@shelf/jest-mongodb": "^1.0.1",
     "jest": "^24.8.0",
     "moxios": "^0.4.0",
-    "nodemon": "^1.19.3",
+    "nodemon": "^3.0.0",
     "prettier": "1.18.2",
     "supertest": "^4.0.2"
   },
